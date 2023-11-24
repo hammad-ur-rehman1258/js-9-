@@ -1,0 +1,160 @@
+.h2a {
+    padding-left: 650px;
+    margin-top: 110px;
+}
+
+.second {
+    display: flex;
+    background-color: antiquewhite;
+    
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+   
+}
+
+.right {
+    width: 50%;
+    height: 100%;
+    
+}
+
+td {
+    padding-left: 10px;
+}
+
+th {
+    padding-left: 5px;
+}
+
+.main {
+    
+    width: 100vw;
+    height: 600px;
+    background-color: aqua;
+
+}
+
+.tb,
+.tb2 {
+ 
+    border-spacing: 40px;
+}
+
+.tb {
+    margin: 0px 500px;
+}
+
+.tb2 {
+    margin: 100px 200px;
+
+}
+
+.t3 {
+    width: 80%;
+    margin: 20px 100px;
+    border: 2px solid black;
+}
+button {
+    margin: 5px;
+}
+
+.tr {
+    padding: 5px 5px;
+}
+
+
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.parent {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    padding-left: 420px;
+    margin-bottom: 120px;
+
+}
+
+img {
+    cursor: pointer;
+}
+
+p {
+    padding-left: 20px;
+}
+
+.i15,
+.i14,
+.i12,
+.i13 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.txt {
+
+    font-size: 50px;
+    font-weight: 200;
+}
+
+h1 {
+    padding: 50px 350px;
+}
+
+.c {
+    padding-left: 680px;
+}
+
+.m1 {
+    padding-left: 500px;
+}
+
+
+.mino {
+    padding-left: 480px;
+
+}
+
+.sr {
+    padding-left: 580px;
+}
+
+.c1 {
+    padding-left: 70px;
+}
+
+.img1 {
+    width: 180px;
+    height: 200px;
+}
+
+.img2 {
+    width: 180px;
+    height: 200px;
+}
+
+.img3 {
+    width: 180px;
+    height: 200px;
+}
+
+.img4 {
+    width: 180px;
+    height: 200px;
+}
+
+button {
+    padding: 5px 10px;
+   
+    border: none;
+    cursor: pointer;
+}
